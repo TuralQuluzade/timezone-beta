@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+.container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 6rem;
+    font-family: "Roboto", sans-serif;
+}
+.main{
+    width: 70%;
+    display: flex;
+    padding: 4rem 0;
+    justify-content: space-evenly;
+    background-color: red;
+    
+}
+.bir{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    color: white;
+    gap: 1rem;
+    p{
+        color: #c5c3c3;
+    }
+}

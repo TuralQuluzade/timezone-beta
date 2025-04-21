@@ -1,0 +1,12 @@
+.container{
+    width: 100%;
+}
+.main{
+    display: flex;
+    gap: 1.5rem;
+}
+.uc{
+    display: flex;
+    flex-direction: column;
+    gap: 2.5rem;
+}
